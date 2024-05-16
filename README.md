@@ -1,6 +1,8 @@
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>Student looking for a Internship</strong> focused on web development.</p>&nbsp;
 
+<P align="center">Student graduating from High School and a Technical Computer Course, with a solid foundation in web and systems development. Starting a course in Computer Networks at UFSM. Experience as a Web Developer, focusing on Full-Stack skills</p>&nbsp;
+
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JoaohenriqueLopes080&theme=radical&mode=weekly" />
  </div>
