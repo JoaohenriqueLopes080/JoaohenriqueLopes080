@@ -48,6 +48,7 @@
 </a>
 <a href = "mailto:JoaohenriqueLopes080@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joão-henrique-lopes-9aa83a19a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+ <a href="https://www.dio.me/users/joaohenriquelopes080" target="_blank"><img src="https://img.shields.io/badge/DIO-E44C30?style=for-the-badge&logo=dio&logoColor=blue">
 </div>&nbsp;&nbsp;
  
 
