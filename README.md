@@ -1,7 +1,24 @@
+# Hello, I am João Henrique Lopes!
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>&nbsp;
+<br>
 
-<P align="center"><strong></strong>Student graduating from High School and a Technical Computer Course<strong></strong>, with a solid foundation in web and systems development. Starting a course in Computer Networks at UFSM. Experience as a Web Developer, focusing on Full-Stack skills</p>&nbsp;
+## About Me
+<br>
+
+- 📚 Student of Computer network, First Semester in UFSM.
+- 📚 Associate Degree in Technician of Computer science and Controller of Internet In CTISM-UFSM -2021-2023-
+- 👨‍💻 Developer With Almost 3 Years of experience.
+
+  <br>
+
+## Experience
+
+<br>
+
+- 💼 I currently work as a Intern Quality Analyst.
+- 🔧 My skills include web development, QA Testing, Database Structure and more.
+
+  <br>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JoaohenriqueLopes080&theme=radical&mode=weekly" />
