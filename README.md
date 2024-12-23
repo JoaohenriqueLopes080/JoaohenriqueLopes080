@@ -16,8 +16,8 @@
 <br>
 <br>
 
-- 💼 I currently work as a Intern Quality Analyst At Grupo Voalle In Santa Maria - RS.
-- 💼 I Had 1 year of scholarship envolving IOT and arduino technologies in UFSM-CTISM.
+- 💼 6 months as an Intern Quality Analyst At Grupo Voalle In Santa Maria - RS.
+- 💼 1 year of scholarship envolving IOT and arduino technologies in UFSM-CTISM.
 
 <br>
 <br>
