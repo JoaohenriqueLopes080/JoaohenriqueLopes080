@@ -8,7 +8,7 @@
 - 📚 Student of Computer network, First Semester in UFSM.
 - 📚 Associate Degree in Technician of Computer science and Controller of Internet In CTISM-UFSM -2021-2023-
 - 👨‍💻 Developer With Almost 3 Years of experience.
-- 👨‍💻 Aspiring to Become a QA Tester.
+- 👨‍💻 Aspiring to Become a Java Developer.
 
   <br>
 
@@ -32,11 +32,14 @@
 
 ## Socials:
 
-<div> 
+<div>
 </a>
-<a href = "mailto:JoaohenriqueLopes080@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:joaohenriquelopes080@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joão-henrique-lopes-9aa83a19a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://letterboxd.com/moiteco/" target="_blank"><img src="https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&logo=Letterboxd&logoColor=FFFFFF"  target="_blank"></a> 
+<a href="https://letterboxd.com/moiteco/" target="_blank"><img src="https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&logo=Letterboxd&logoColor=FFFFFF"  target="_blank"></a>
+<a href="https://www.backloggd.com/u/Pekynho/" target="_blank"><img src="https://img.shields.io/badge/Backllogd-blue" target="_blank">
+  
+</a> 
 </div>&nbsp;&nbsp;
 
 ## My Skills
