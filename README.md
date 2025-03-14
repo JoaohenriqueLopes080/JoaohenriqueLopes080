@@ -73,7 +73,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
 #### Office Applications: 
-Microsoft Word, Microsoft Outlook, Microsoft Excel, Microsoft PowerPoint, LibreOffice
+Microsoft Word, Microsoft Excel, Microsoft PowerPoint,
 
 &nbsp;
 &nbsp;
