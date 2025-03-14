@@ -7,7 +7,6 @@
 
 - 📚 Student of Information Systems, First Semester in UFSM.
 - 📚 Associate Degree in Technician of Computer science and Controller of Internet In CTISM-UFSM -2021-2023-
-- 👨‍💻 Developer With Almost 3 Years of experience.
 - 👨‍💻 Aspiring to Become a Java Developer.
 
   <br>
